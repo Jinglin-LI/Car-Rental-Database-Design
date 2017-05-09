@@ -1,9 +1,3 @@
--------------------------------------------------------------------
----------------Database Design Term Project------------------------
-----------------Team: Renchi Liu, Yanjiao Jia, Jinglin Li----------
----------------- Create the car rental tables ---------------------
--------------------------------------------------------------------
-
 use Car_Rental
 create table account (
 	Email varchar(25) not null,
